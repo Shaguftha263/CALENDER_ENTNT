@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/CALENDER_ENTNT/static/js/main.dfaeeba2.js",
+    "main.js": "/CALENDER_ENTNT/static/js/main.6aaec6e3.js",
     "index.html": "/CALENDER_ENTNT/index.html",
-    "main.dfaeeba2.js.map": "/CALENDER_ENTNT/static/js/main.dfaeeba2.js.map"
+    "main.6aaec6e3.js.map": "/CALENDER_ENTNT/static/js/main.6aaec6e3.js.map"
   },
   "entrypoints": [
-    "static/js/main.dfaeeba2.js"
+    "static/js/main.6aaec6e3.js"
   ]
 }
