@@ -1,19 +1,33 @@
-
 {
-    "name": "calendar-app-entnt",
-    "version": "1.0.0",
-    "description": "A React-based app for tracking communications",
-    "dependencies": {
-        "react": "^18.0.0",
-        "react-dom": "^18.0.0",
-        "react-router-dom": "^6.0.0",
-        "react-scripts": "^5.0.0"
-    },
-    "scripts": {
-        "start": "react-scripts start",
-        "build": "react-scripts build",
-        "predeploy": "npm run build",
-        "deploy": "gh-pages -d build"
-    },
-    "homepage": "https://Shaguftha263.github.io/CALENDER_ENTNT"
+  "name": "calendar-app-entnt",
+  "version": "1.0.0",
+  "description": "A React-based app for tracking communications",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.0.0",
+    "react-scripts": "^5.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "homepage": "https://Shaguftha263.github.io/CALENDER_ENTNT",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
 }
